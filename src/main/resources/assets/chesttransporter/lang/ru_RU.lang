@@ -1,4 +1,8 @@
-item.chesttransporter_wood.name=Деревянный таскатель сундуков
-item.chesttransporter_iron.name=Железный таскатель сундуков
-item.chesttransporter_gold.name=Золотой таскатель сундуков
-item.chesttransporter_diamond.name=Алмазный таскатель сундуков
+item.chesttransporter_wood.name=Деревянный переносчик сундуков
+item.chesttransporter_iron.name=Железный переносчик сундуков
+item.chesttransporter_gold.name=Золотой переносчик сундуков
+item.chesttransporter_diamond.name=Алмазный переносчик сундуков
+item.chesttransporter_copper.name=Медный переносчик сундуков
+item.chesttransporter_silver.name=Серебряный переносчик сундуков
+item.chesttransporter_tin.name=Оловянный переносчик сундуков
+item.chesttransporter_obsidian.name=Обсидиановый переносчик сундуков
